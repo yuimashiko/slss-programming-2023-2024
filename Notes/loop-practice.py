@@ -15,4 +15,8 @@ for i in range (10, 0, -1) :
 print("Happy new year!")
 
 
-  
+for x in range (1200,1500,2):
+    print(x)
+    
+for y in range (-149,0,2) :
+    print(y)
